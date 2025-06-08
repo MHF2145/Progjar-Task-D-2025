@@ -1,0 +1,8 @@
+2025-06-08 20:01:52,974 - CLIENT - Terhubung ke server localhost:8889
+2025-06-08 20:01:57,390 - CLIENT - Feedback diterima dari server:
+HTTP/1.0 200 OK
+Content-Type: text/plain
+
+Tidak ada file yang sudah di-upload.
+
+
